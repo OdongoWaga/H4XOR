@@ -17,6 +17,7 @@
 		8D41561A23641DFD00DF9CCD /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D41561923641DFD00DF9CCD /* PostData.swift */; };
 		8D41561D236424F300DF9CCD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D41561C236424F300DF9CCD /* DetailView.swift */; };
 		8D41561F23642ACA00DF9CCD /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D41561E23642ACA00DF9CCD /* WebView.swift */; };
+		8D41562123642C9200DF9CCD /* Oct-26-2019 10-24-27.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8D41562023642C9200DF9CCD /* Oct-26-2019 10-24-27.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		8D41561923641DFD00DF9CCD /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		8D41561C236424F300DF9CCD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		8D41561E23642ACA00DF9CCD /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		8D41562023642C9200DF9CCD /* Oct-26-2019 10-24-27.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "Oct-26-2019 10-24-27.gif"; path = "../../../../Oct-26-2019 10-24-27.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		8D149877236283BB00410934 /* H4XOR */ = {
 			isa = PBXGroup;
 			children = (
+				8D41562023642C9200DF9CCD /* Oct-26-2019 10-24-27.gif */,
 				8D41561623641C5100DF9CCD /* Models */,
 				8D149878236283BB00410934 /* AppDelegate.swift */,
 				8D14987A236283BB00410934 /* SceneDelegate.swift */,
@@ -163,6 +166,7 @@
 			files = (
 				8D149885236283BE00410934 /* LaunchScreen.storyboard in Resources */,
 				8D149882236283BE00410934 /* Preview Assets.xcassets in Resources */,
+				8D41562123642C9200DF9CCD /* Oct-26-2019 10-24-27.gif in Resources */,
 				8D14987F236283BE00410934 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
